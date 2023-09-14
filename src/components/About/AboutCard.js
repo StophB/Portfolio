@@ -9,9 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mustapha Bousfina </span>
-            from <span className="purple"> Rabat, Morocco.</span>
-            <br /> I am a junior full-stack developer and future software
-            engineer at <a className="purple" href="https://www.alxafrica.com/">ALX</a>
+            from <span className="purple"> Morocco.</span>
+            <br /> I am a junior full-stack developer
             <br />
             Additionally, I am currently employed as a software developer at
             ******.
