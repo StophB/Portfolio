@@ -2,9 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/chatify.png";
 import planetphone from "../../Assets/Projects/planetphone.png";
-import admin from "../../Assets/Projects/admin.png";
 
 function Projects() {
   return (
